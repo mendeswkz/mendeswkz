@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 
 
-Meu nome é joão pedro, mas me chamam de mendes
+Meu nome é joão pedro, mas sou conhecido como mendes
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
